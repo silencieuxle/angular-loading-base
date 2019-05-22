@@ -10,6 +10,10 @@ Please note that this is not a module. The repository itself is a source code.
 - This component depends on ngx-loading.
 
 ```
+npm install ngx-loading@latest --save
+```
+
+```
 import { NgxLoadingModule, ngxLoadingAnimationTypes } from 'ngx-loading';
 ```
 
